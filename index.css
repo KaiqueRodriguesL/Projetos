@@ -1,0 +1,25 @@
+/* Cor de fundo do body */
+body {
+    background-color: rgb(131, 223, 131);
+    color: white; /* Texto em branco para contraste */
+    font-family: italic, sans-serif;
+}
+
+/* Estilizando listas */
+ul {
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+/* Estilo para espaçamento entre itens da lista */
+ul li {
+    margin-bottom: 10px;
+}
+
+/* Ajustando imagem */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
